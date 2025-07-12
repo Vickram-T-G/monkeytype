@@ -2,7 +2,7 @@
   "name": "monkeytype-clone-frontend",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://yourusername.github.io/monkeytype-clone",
+  "homepage": "https://vickram-T-G.github.io/monkeytype",
   "type": "module",
   "scripts": {
     "dev": "vite",
